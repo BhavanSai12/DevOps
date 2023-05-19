@@ -1211,28 +1211,15 @@ A cheat sheet for uncommon Git commands
 - Interview Question
     
 # Docker
-- Introduction
-- Level Virtualization
-- Docker Commands
-- Build Image From Container
-- Docker File
-- Docker File Components
-- Docker File Creation
+
 - Docker Volumes
-- Uses Of Volumes
-- Creating Volumes
-- Creating Volumes By Using Commands
-- Volumes (Container – Container)
-- Volumes (Host – Container)
-- Creating A Volume From File
-- Docker Port Mapping
-- Difference B/W Exec And Attach
-- Difference B/W Expose And Publish
-- Docker Hub
-- Docker Push
-- Docker Pull
-- Some Advance Commands
-- Interview Questions
+- Docker Compose
+- Docker Installation
+- Docker swarm Commands
+- Docker Compose Commands
+- Docker Compose File
+- Docker Compose File Structure
+
 ### Table of Contents
 
 | No. | Questions |
