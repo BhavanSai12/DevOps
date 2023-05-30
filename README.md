@@ -1,5 +1,4 @@
-# Devops12
-Complete Devops
+[DevOps Blog](https://medium.com/?tag=devops)
 # DevOps Introduction
 - Introduction
     
