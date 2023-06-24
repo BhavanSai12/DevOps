@@ -303,11 +303,12 @@ So Linux divides authorization into 2 levels,
 
 1. **Ownership:**
 Each file or directory has assigned with 3 types of owners
+
 i. **User:** Owner of the file who created it.
 ii. **Group:** Group of users with the same access permissions to the file or directory.
 iii. **Other:** Applies to all other users on the system
 
-2. **Permissions:**
+3. **Permissions:**
 Each file or directory has following permissions for the above 3 types of owners.
 
     i.   **Read:** Give you the authority to open and read a file and lists its content for a directory.
