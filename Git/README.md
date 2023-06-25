@@ -1,24 +1,3 @@
-# GIT
-
-- Vcs History
-- Revision Control System
-- Subversion
-- Repository (Local, Central, Remote)
-- Git Installation
-- Git Status
-- Commit A File Using Git
-- Ignoring Content
-- Git Hub
-- Git Repo’s (Private & Public)
-- Git Cloning
-- Git Merge
-- Git Fork
-- Git Cherrypick
-- Git Revert
-- Git Merge
-- Github Fileadd
-- Advantages & Disadvantages
-- Interview Questions
 # Git-Cheat-Sheet
 A cheat sheet for uncommon Git commands
 
